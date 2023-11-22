@@ -25,6 +25,25 @@ Refers to a specific component or segment of a larger health information system 
 
 ## OpenMRS Implementation of the Outpatient Module
 
-- Patient Registration: 
+### Patient Registration: 
+
+I registered a patient by name _James Ayodi Ohon_ born on _4th Feb, 1967_. Below are the registration details.
 
 ![Alt text](image.png)
+
+I started a visit for this _James Ayodi Ohon_ as shown below:
+
+![Alt text](image-1.png)
+
+I captured vitals as shown below:
+
+![Alt text](image-2.png)
+
+I added visit note for _James Ayodi Ohon_ as shown below. The diagnosis presumed from laboratory test from lab module allows me to select from ICD-11.
+
+![Alt text](image-3.png)
+
+After selection of the _Primary Diagnosis_ from the list, I added clinical notes relevant to the diagnosis in the text box. After this I added the next appointment date as shown below:
+
+
+![Alt text](image-4.png)
