@@ -1,1 +1,3 @@
 # Outpatient Module
+
+Refers to a specific component or segment of a larger health information system that is dedicated to managing and facilitating outpatient care services. The outpatient module is designed to streamline and organize the processes related to patient care provided on an outpatient basis, where individuals receive medical treatment without being admitted to a hospital or staying overnight.
