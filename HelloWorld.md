@@ -4,11 +4,11 @@ Refers to a specific component or segment of a larger health information system 
 
 ## Key features of an outpatient module
 
-- **Appointment Scheduling:** Allows for the scheduling and management of outpatient appointments, ensuring efficient use of healthcare resources and minimizing patient wait times.
-
 - **Patient Registration:** Captures and maintains essential patient information, including demographics, contact details, and medical history relevant to outpatient care.
 
-- **Visit Documentation:** Records and manages information about each outpatient visit, including symptoms, diagnosis, prescribed medications, and treatment plans.
+- **Appointment Scheduling:** Allows for the scheduling and management of outpatient appointments, ensuring efficient use of healthcare resources and minimizing patient wait times.
+
+- **Visit Documentation/Consultation:** Records and manages information about each outpatient visit, including patient vitals, symptoms, diagnosis, prescribed medications, and treatment plans.
 
 - **Billing and Payment:** Manages financial aspects of outpatient care, including billing for services rendered, processing insurance claims, and handling patient payments.
 
@@ -47,3 +47,10 @@ After selection of the _Primary Diagnosis_ from the list, I added clinical notes
 
 
 ![Alt text](image-4.png)
+
+
+## Tiberbu HMIS Implementation of the Outpatient Module
+
+Tiberbu is based on the ERP known as Frappe Cloud which is customisable based on the needs of the users. Below is a patient flow diagram 
+
+![Alt text](image-5.png)
