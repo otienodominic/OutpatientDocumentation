@@ -63,6 +63,10 @@ The ministry of health of Kenya implements the outpatient using two types of reg
 ### MOH 204 A Outpatient Register (under five years)
 The register is used for both Male and Female below 5 years (0 – 59 months) who are sick and visit the Health Facility for treatment. The patient/client is registered as an outpatient upon issuance of OPD card. The register also covers the IMCI component and should not have separate register for implementing IMCI. The register has various data elements which need to be captured in it. These include the patient name, age, sex, first visit or revisit, diagnosis, treatment given, danger signs and others. This register is supposed to feed the MOH 701 A Under five (<5) years Daily outpatient morbidity tally sheet before posting the daily summaries to MOH 705 A Under five (< 5) years Daily outpatient morbidity summary sheet.
 
+<../../../../Downloads/MOH 204A_OP Under5yrs Register.pdf>
+
 ### MOH 204 B Outpatient Register (over 5 years)
 
 Similar to the MOH 204 A Outpatient Register (under five years), this the register is used for both Male and Female above 5 years (60+ months) who are sick and therefore seek treatment in the health facility. The patient/client is registered as an outpatient upon issuance of OPD card. The register has various data elements which need to be captured in it. These include the patient name, age, sex, first visit or revisit, diagnosis, treatment given and others. This register is supposed to feed the MOH 701 B Over five (>5) years Daily outpatient morbidity tally sheet before posting the daily summaries to MOH 705 B Over five (>5) years Daily outpatient morbidity summary sheet. 
+
+<../../../../Downloads/MOH 204B_OP Over5yrs Register.pdf>
