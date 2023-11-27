@@ -70,3 +70,9 @@ The register is used for both Male and Female below 5 years (0 – 59 months) wh
 Similar to the MOH 204 A Outpatient Register (under five years), this the register is used for both Male and Female above 5 years (60+ months) who are sick and therefore seek treatment in the health facility. The patient/client is registered as an outpatient upon issuance of OPD card. The register has various data elements which need to be captured in it. These include the patient name, age, sex, first visit or revisit, diagnosis, treatment given and others. This register is supposed to feed the MOH 701 B Over five (>5) years Daily outpatient morbidity tally sheet before posting the daily summaries to MOH 705 B Over five (>5) years Daily outpatient morbidity summary sheet. 
 
 <../../../../Downloads/MOH 204B_OP Over5yrs Register.pdf>
+
+<object data="Over5yrsRegister.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Over5yrsRegister.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Over5yrsRegister.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
